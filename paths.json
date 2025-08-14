@@ -5,7 +5,7 @@
     "/content/xwalk/metadata:/metadata.json",
     "/content/xwalk/awards/awards:/awards/awards.json",
     "/content/xwalk/all-services/query-index:/all-services/query-index.json",
-    "/content/xwalk/all-services/service-index:/all-services/services-index.json" 
+    "/content/xwalk/all-services/services-index:/all-services/services-index.json" 
   ],
   "includes": [
     "/content/xwalk/"
