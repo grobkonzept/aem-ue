@@ -6,5 +6,19 @@
   ],
   "includes": [
     "/content/xwalk/"
+  ],
+  "paths": [
+    {
+      "path": "/awards/awards",
+      "type": "sheet"
+    },
+    {
+      "path": "/all-services/query-index",
+      "type": "sheet"
+    },
+    {
+      "path": "/all-services/services-index",
+      "type": "sheet"
+    }
   ]
 }
