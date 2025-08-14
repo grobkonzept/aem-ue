@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p158062-e1677873.adobeaemcloud.com/bin/franklin.delivery/grobkonzept/xwalk/main"
+    url: "https://author-p158062-e1677873.adobeaemcloud.com/bin/franklin.delivery/grobkonzept/aem-ue/main"
     type: "markup"
     suffix: ".html"
