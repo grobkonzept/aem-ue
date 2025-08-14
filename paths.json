@@ -3,9 +3,9 @@
     "/content/xwalk/:/",
     "/content/xwalk/configuration:/.helix/config.json",
     "/content/xwalk/metadata:/metadata.json",
-    "/content/xwalk/awards/awards: /awards/awards.json",
-    "/content/xwalk/all-services/query-index: /all-services/query-index.json",
-   "/content/xwalk/all-services/service-index: /all-services/service-index.json" 
+    "/content/xwalk/awards/awards:/awards/awards.json",
+    "/content/xwalk/all-services/query-index:/all-services/query-index.json",
+    "/content/xwalk/all-services/service-index:/all-services/service-index.json" 
   ],
   "includes": [
     "/content/xwalk/"
